@@ -8,7 +8,7 @@ import (
 
 	"github.com/inidaname/mosque/api_gateway/pkg/types"
 	"github.com/inidaname/mosque/api_gateway/pkg/utils"
-	pb "github.com/inidaname/mosque/protos"
+	pb "github.com/inidaname/mosque_location/protos"
 	"google.golang.org/protobuf/types/known/timestamppb"
 )
 

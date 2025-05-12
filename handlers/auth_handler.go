@@ -9,7 +9,7 @@ import (
 	"github.com/go-chi/chi/v5"
 	"github.com/inidaname/mosque/api_gateway/pkg/types"
 	"github.com/inidaname/mosque/api_gateway/pkg/utils"
-	pb "github.com/inidaname/mosque/protos"
+	pb "github.com/inidaname/mosque_location/protos"
 )
 
 func RegisterUser(client pb.AuthServiceClient) http.HandlerFunc {

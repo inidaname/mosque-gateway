@@ -3,7 +3,7 @@ package client
 import (
 	"log"
 
-	pb "github.com/inidaname/mosque/protos"
+	pb "github.com/inidaname/mosque_location/protos"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 )
